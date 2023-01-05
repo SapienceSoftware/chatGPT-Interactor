@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95d9474d-7493-4afe-afa8-8131089a7cd8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChatGPTInteractor/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChatGPTInteractor/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChatGPTInteractor/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChatGPTInteractor/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChatGPTInteractor/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ChatGPTInteractor/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.chatGPT-Interactor.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.chatGPT-Interactor.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.chatGPT-Interactor.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.chatGPT-Interactor.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatGPTInteractor.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatGPTInteractor/ChatGPTInteractor.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatGPTInteractor/ChatGPTInteractor.csproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatGPTInteractor/Form1.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatGPTInteractor/Form1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatGPTInteractor/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChatGPTInteractor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChatGPTInteractor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatGPTInteractor/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ChatGPTInteractor/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +25,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ChatGPTInteractor" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -76,8 +63,17 @@
       <option name="presentableId" value="Default" />
       <updated>1672951139889</updated>
       <workItem from="1672951145461" duration="2119000" />
-      <workItem from="1672953398900" duration="222000" />
+      <workItem from="1672953398900" duration="333000" />
+      <workItem from="1672953833191" duration="678000" />
     </task>
+    <task id="LOCAL-00001" summary="code for mpv chatGPT interactor">
+      <created>1672953728168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672953728168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="code for mpv chatGPT interactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="code for mpv chatGPT interactor" />
   </component>
 </project>

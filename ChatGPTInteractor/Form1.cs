@@ -50,7 +50,7 @@ public partial class Form1 : Form
 
         while (!text.Contains("Regenerate" + " response"))
         {
-            Thread.Sleep(500);
+            Thread.Sleep(1000);
             
             BringToFront(process[0]);
 
